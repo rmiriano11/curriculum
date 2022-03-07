@@ -1,0 +1,53 @@
+body{
+    background-color: #131116;
+    color: white; 
+}
+
+.introducao{
+    background-color: #4E4562;
+    border-bottom-style: solid;
+}
+
+.colunas{
+    background-color: #4E4562;
+    padding-bottom: 700px;
+}
+
+.foto{
+    position: absolute;
+}
+.informacoes{
+    margin-top: 30px;
+    margin-left: 210px;
+    padding: 50px;
+    position:relative;
+}
+
+.habilidades{
+    margin-top: 8px;
+    margin-left: 15px;
+    float: left;
+    position: relative;
+}
+
+.idiomas{
+    margin-top: 250px;
+    margin-left: -150px;
+    float: left;
+    position: relative;
+}
+
+.experiencia{
+    margin-top: 8px;
+    margin-right: 700px;
+    float: right;
+    position: relative;
+}
+
+.educacao{
+    margin-top: 170px;
+    margin-right: 600px;
+    float: right;
+    position: relative;
+}
+
